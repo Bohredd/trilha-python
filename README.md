@@ -1,14 +1,16 @@
 
-# Laboratório de Orientação a Objetos
+# Trilha - Geração Tech Unimed BH - Ciência de Dados [Python]
 
-Cadeira que cursei no primeiro semestre do curso de Bacharelado em Sistemas de Informação da UFSM. 
+Curso que estou fazendo após ter ficado na posição 14 do CodeCamp 1st de JavaScript da plataforma Digital Innovation One - DIO
+
+![image](https://user-images.githubusercontent.com/113557144/227735787-0134c352-80a1-48d3-a314-11b463cb766c.png)
+
 
 ## Referência
 
- - [//](google.com)
- - [//](google.com)
+ - [Dio](web.dio.me)
+ - [Trilha](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados)
 
 ## Docente
 
-- [//](google.com)
-
+- [X](x)
